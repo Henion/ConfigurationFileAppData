@@ -1,0 +1,30 @@
+# Ignore everything
+#*
+
+# But not these files
+#!.gitignore
+#!settings.json
+
+
+
+#...even if they are in subdirectories
+#!*/
+
+# if files to be tracked are in subdirectories
+#!*/Roaming/Code/User/settings.json
+
+#/**
+#!/**/
+#!.gitignore
+#.Roaming/Code/User/*
+#!.Roaming/Code/User/settings.json
+
+*
+!.gitignore
+!Roaming/
+Roaming/*
+!Roaming/Code/
+Roaming/Code/*
+!Roaming/Code/User
+Roaming/Code/User/*
+!Roaming/Code/User/settings.json

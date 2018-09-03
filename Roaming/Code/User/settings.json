@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "C:\\Users\\admin\\Anaconda3",
+  "python.terminal.executeInFileDir": true,
+
+  "http.proxy": "http://Deepred:123@192.168.1.110:3128",
+  "http.proxyStrictSSL": false,
+  
+  "git.path": "C:\\Program Files (x86)\\SmartGit\\git\\cmd\\git.exe"
+}
